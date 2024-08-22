@@ -205,3 +205,5 @@ A simulation of a basic banking system, offering deposit, withdrawal, transfer, 
 
 ![Shaharyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaharyarK&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaharyarK&layout=compact&theme=radical)
+
+### By the way, do not go with these stats, as I earlier said my work is mostly private.
